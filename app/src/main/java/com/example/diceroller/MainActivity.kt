@@ -52,3 +52,4 @@ class Dice(val numSides: Int) {
         return (1..numSides).random()
     }
 }
+}
